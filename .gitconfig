@@ -1,0 +1,6 @@
+.gitconfig
+helper = cache
+ui = true
+name = uejosh
+email = uejosh4real@gmail.com
+editor = code --wait
